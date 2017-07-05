@@ -1,6 +1,6 @@
 {
   "name": "firebase-session",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "helpers to manage firebase session",
   "main": "src/index.js",
   "scripts": {
