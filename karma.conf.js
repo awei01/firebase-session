@@ -1,4 +1,4 @@
-var webpackConfig = require('./webpack.conf.js')
+var webpackConfig = require('./webpack.config.js')
 
 // Karma configuration
 // Generated on Fri Jun 16 2017 11:07:47 GMT-0400 (EDT)
