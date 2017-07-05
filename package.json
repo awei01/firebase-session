@@ -1,8 +1,8 @@
 {
   "name": "firebase-session",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "helpers to manage firebase session",
-  "main": "dist/index.js",
+  "main": "dist/index.min.js",
   "scripts": {
     "clean": "rimraf ./dist",
     "build": "npm run clean && WEBPACK_ENV=build webpack",
